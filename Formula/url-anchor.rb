@@ -1,4 +1,5 @@
 class UrlAnchor < Formula
+  desc "Converts URL to HTML `<a>` tag"
   version '1.0.1'
   homepage 'https://github.com/ebc-2in2crc/url-anchor'
   url "https://github.com/ebc-2in2crc/url-anchor/releases/download/v1.0.1/url-anchor_darwin_amd64.zip"
