@@ -1,8 +1,8 @@
 class UrlAnchor < Formula
-  version '1.0.0'
+  version '1.0.1'
   homepage 'https://github.com/ebc-2in2crc/url-anchor'
-  url "https://github.com/ebc-2in2crc/url-anchor/releases/download/v1.0.0/url-anchor_darwin_amd64.zip"
-  sha256 'dd7d2cc36a6de23254e89aa6c180ee7e7d65019b0e1db37b9b651f94e1c8ff66'
+  url "https://github.com/ebc-2in2crc/url-anchor/releases/download/v1.0.1/url-anchor_darwin_amd64.zip"
+  sha256 '2a36258a2e9dc7c11f2f71c39019664bc7996d9d2d1ac9cd748a88ca7af4c886'
   head 'https://github.com/ebc-2in2crc/url-anchor.git'
 
   head do
