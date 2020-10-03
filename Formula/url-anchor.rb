@@ -1,9 +1,9 @@
 class UrlAnchor < Formula
   desc "Converts URL to HTML `<a>` tag"
-  version '1.0.1'
+  version '1.1.0'
   homepage 'https://github.com/ebc-2in2crc/url-anchor'
-  url "https://github.com/ebc-2in2crc/url-anchor/releases/download/v1.0.1/url-anchor_darwin_amd64.zip"
-  sha256 '2a36258a2e9dc7c11f2f71c39019664bc7996d9d2d1ac9cd748a88ca7af4c886'
+  url "https://github.com/ebc-2in2crc/url-anchor/releases/download/v1.1.0/url-anchor_darwin_amd64.zip"
+  sha256 '98b27c07f528f113f03cfaba266a8557648cbcdd5b34ca8f1a56e9adbee88ab6'
   head 'https://github.com/ebc-2in2crc/url-anchor.git'
 
   head do
