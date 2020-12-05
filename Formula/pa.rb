@@ -1,9 +1,9 @@
 class Pa < Formula
   desc "Pixela (https://pixe.la/) CLI tools"
-  version '1.3.1'
+  version '1.4.0'
   homepage 'https://github.com/ebc-2in2crc/pa'
-  url "https://github.com/ebc-2in2crc/pa/releases/download/v1.3.1/pa_darwin_amd64.zip"
-  sha256 '3dfd6c51cdc0384b215768d1304f659e3f9621f99fa9e03d92f67a7de75cfc55'
+  url "https://github.com/ebc-2in2crc/pa/releases/download/v1.4.0/pa_darwin_amd64.zip"
+  sha256 '9e4d63b838b1e6c5721e48cfa2ab21c202732d606be8536d90f4396c75d02077'
   head 'https://github.com/ebc-2in2crc/pa.git'
 
   head do
