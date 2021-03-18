@@ -1,4 +1,5 @@
 class Dango < Formula
+  desc "Concatenates and splits standard input"
   version '0.9.0'
   homepage 'https://github.com/ebc-2in2crc/dango'
   if OS.mac?
