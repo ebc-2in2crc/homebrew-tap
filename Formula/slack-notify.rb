@@ -1,13 +1,13 @@
 class SlackNotify < Formula
-  version '0.0.4'
+  version '0.0.5'
   homepage 'https://github.com/ebc-2in2crc/slack-notify'
   if OS.mac?
-    url "https://github.com/ebc-2in2crc/slack-notify/releases/download/v0.0.4/slack-notify_darwin_amd64.zip"
-    sha256 '6156e2132fd576677ef78498ccd43625d552a43f86adadfd24d3edf3e9a04e62'
+    url "https://github.com/ebc-2in2crc/slack-notify/releases/download/v0.0.5/slack-notify_darwin_amd64.zip"
+    sha256 '0ebb878ca84269ea73609345457a8de74adf4ab1cb0f9c2df486d76a04bcf9e0'
   end
   if OS.linux?
-    url "https://github.com/ebc-2in2crc/slack-notify/releases/download/v0.0.4/slack-notify_linux_amd64.zip"
-    sha256 'ce53a1c19269ed08c8e3268634d8a1c25fa54f8df6b3db9c2f904b29cc4a6e1f'
+    url "https://github.com/ebc-2in2crc/slack-notify/releases/download/v0.0.5/slack-notify_linux_amd64.zip"
+    sha256 'a40b4a0c29d1f1baafd5a81bd0482e331b8afc4e8e235a4305b552610a045be3'
   end
   head 'https://github.com/ebc-2in2crc/slack-notify.git'
 
