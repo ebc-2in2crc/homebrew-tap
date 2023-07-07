@@ -1,4 +1,5 @@
 class SlackNotify < Formula
+  desc "Post Google Calendar events to Slack"
   version '0.0.6'
   homepage 'https://github.com/ebc-2in2crc/slack-notify'
   if OS.mac?
